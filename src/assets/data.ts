@@ -1,0 +1,50 @@
+export const student_data = [
+    {
+        id :1,
+        name : "Johnson Wood",
+        attendance : "Present",
+        department : "Computer Engineering",
+        profileImage : "profilePhoto.png",
+        email : "johnsonwood@gmail.com",
+    },
+    {
+        id : 2,
+        name: "Alice Smith",
+        attendance: "Present",
+        department: "Electrical Engineering",
+        profileImage: "https://media.istockphoto.com/id/1437816897/photo/business-woman-manager-or-human-resources-portrait-for-career-success-company-we-are-hiring.jpg?s=612x612&w=0&k=20&c=tyLvtzutRh22j9GqSGI33Z4HpIwv9vL_MZw_xOE19NQ=",
+        email: "alicesmith@gmail.com",
+    },
+    {
+        id : 3,
+        name: "Bob Johnson",
+        attendance: "Absent",
+        department: "Mechanical Engineering",
+        profileImage: "https://thumbs.dreamstime.com/b/profile-picture-caucasian-male-employee-posing-office-happy-young-worker-look-camera-workplace-headshot-portrait-smiling-190186649.jpg",
+        email: "bobjohnson@gmail.com",
+    },
+    {
+        id : 4,
+        name: "Catherine Lee",
+        attendance: "Present",
+        department: "Civil Engineering",
+        profileImage: "https://img.freepik.com/free-photo/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction_176420-15187.jpg?semt=ais_hybrid",
+        email: "catherinelee@gmail.com",
+    },
+    {
+        id : 5,
+        name: "David Brown",
+        attendance: "Present",
+        department: "Computer Engineering",
+        profileImage: "https://images.ctfassets.net/h6goo9gw1hh6/2sNZtFAWOdP1lmQ33VwRN3/24e953b920a9cd0ff2e1d587742a2472/1-intro-photo-final.jpg?w=1200&h=992&fl=progressive&q=70&fm=jpg",
+        email: "davidbrown@gmail.com",
+    },
+    {
+        id : 6,
+        name: "Emily Davis",
+        attendance: "Absent",
+        department: "Chemical Engineering",
+        profileImage: "https://media.gettyimages.com/id/1317804578/photo/one-businesswoman-headshot-smiling-at-the-camera.jpg?s=612x612&w=gi&k=20&c=tFkDOWmEyqXQmUHNxkuR5TsmRVLi5VZXYm3mVsjee0E=",
+        email: "emilydavis@gmail.com",
+    }
+]
